@@ -1,4 +1,8 @@
-﻿  Source.cpp
-C:\Users\atefm\source\repos\myGame\myGame\Source.cpp(41,17): warning C4804: '<': unsafe use of type 'bool' in operation
-C:\Users\atefm\source\repos\myGame\myGame\Source.cpp(38,19): warning C4101: 'renderer': unreferenced local variable
+﻿  Application.cpp
+  main.cpp
+  Source.cpp
+  Generating Code...
+  glad.c
   myGame.vcxproj -> C:\Users\atefm\source\repos\myGame\x64\Debug\myGame.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
